@@ -135,15 +135,3 @@ pyttsx3 speaks the generated response back to the user.
 Pull requests and suggestions are welcome!
 
 ---
-
-## 📜 License
-
-No license added yet — choose one if needed (MIT, Apache, etc.).
-
-```
-
----
-
-If you want this **shorter**, **longer**, **more stylish**, **with badges**, or **with a banner** — just tell me.
-```
-
